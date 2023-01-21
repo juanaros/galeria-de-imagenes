@@ -2,6 +2,6 @@
 
 Con React Bootstrap
 
-### Disponible en GitHUb Pages
+### Disponible en GitHub Pages
 
 https://juanaros.github.io/galeria-de-imagenes/
